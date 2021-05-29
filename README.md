@@ -45,7 +45,7 @@ The number of bike trips for each type of user and gender for each day of the we
 
 The dataset showed the total number of rides, the different types of users (subscribers and customers), the peak periods which can be used to determine the best time to have the bikes repaired. The bikes that requires the least repairs can be substituted for bike sharing during repairs. More males use the bikes than females and other gender types. ALso, more males use the bikes mostly on Thursday evenings.
 
-I can create a visualization that shows
+I can create a visualization that shows:
 
 a. the gender of the 2 user types
 
