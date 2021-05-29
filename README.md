@@ -4,6 +4,14 @@
 
 The purpose of this analysis was to create powerful analytic dashboards that tells a clear story of bike ride in New York.
 
+
+## Tableau Public
+
+[link to dashboard](https://public.tableau.com/app/profile/opy.shoffy/viz/Book2_16223151294840/UserStory)
+
+https://public.tableau.com/app/profile/opy.shoffy/viz/Book2_16223151294840/UserStory
+
+
 ## Results
 
 ![](checkout.png)
